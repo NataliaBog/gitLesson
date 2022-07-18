@@ -18,7 +18,7 @@ Homework2
 2. слияние веток
 * *git merge имя_ветки* - сливаем ветку в текущую
 
-**Conflikt**
+**Conflikt** 1
 3. конфликты
 * *fast -forward*
 * *auto - merge* ORT
